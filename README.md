@@ -1,6 +1,26 @@
 Consolidated group project from the Special Competitive Studies Project
 
+Contributors:
 Sab/ DJ/ JC/ Vinay/ and Eric
+
+CLIPS FROM INSIDE
+
+AAR
+
+![in_game](in_game.png)
+
+Google Map Geo-Twinning Game Board functions
+
+![terrain_qualitizedMap](terrain_quailtizedMap.png)
+
+AAR
+
+![aar](aar.png)
+
+Random Terrain Generator
+
+![auto_mapBuilder](auto_mapBuilder.png)
+
 
 # Kriegsspiel
 
